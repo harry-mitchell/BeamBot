@@ -1,0 +1,44 @@
+{
+  "smallDaddy": "587127835404271657",
+  "Beam_Daddy":
+    {
+      "id": "587790318858928143",
+      "name": "Beam Daddy"
+    },
+  "Beam_Connoisseurs":
+  {
+    "id": "587789448461418497",
+    "name": "Beam Connoisseur",
+    "name_plural": "Beam Connoisseurs"
+  },
+  "Baby_Beamers":
+    {
+      "id": "587791931837382678",
+      "name": "Baby Beamer",
+      "name_plural": "Baby Beamers"
+    },
+  "Beam_Benders":
+    {
+      "id": "587790429458530308",
+      "name": "Beam Bender",
+      "name_plural": "Beam Benders"
+    },
+  "Small_Time_Beamers":
+    {
+      "id": "587789722534019093",
+      "name": "Small-Time Beamer",
+      "name_plural": "Small-Time Beamers"
+    },
+  "Bandwagon_Beamers":
+    {
+      "id": "587790318858928143",
+      "name": "Bandwagon Beamer",
+      "name_plural": "Bandwagon Beamers"
+    },
+
+  "Success_Emoji": "587740534681108482",
+  "Invalid_Command_Emoji": "587740575160205322",
+  "Date_Error_Emoji": "587741028232986626",
+  "Invalid_Class_Emoji": "587847831885316111",
+  "Class_Date_Error_Emoji": "587857935028322304"
+}

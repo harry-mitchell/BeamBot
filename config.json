@@ -1,0 +1,10 @@
+{
+	"name": "BeamBot",
+	"version": "1.0.0",
+	"description": "I am BeamBot",
+	"main": "BeamBot.js",
+	"author": "TooManyMoths",
+	"dependencies": {},
+	"token": "",
+	"the_beam": ""
+}
